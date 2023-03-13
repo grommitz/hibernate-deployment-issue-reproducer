@@ -57,3 +57,11 @@ at fish.payara.micro.boot.PayaraMicroLauncher.main(PayaraMicroLauncher.java:72)
 at fish.payara.micro.PayaraMicro.main(PayaraMicro.java:467)
 ]]
 </pre>
+
+## Usage:
+
+From a linux shell:
+
+`./run.sh`
+
+This does the build (with Maven) and downloads Payara Micro for doing the deployment.
